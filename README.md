@@ -1,13 +1,10 @@
-# emingung0r.github.io
-Elbette, memnuniyetle yardımcı olurum! İşte bir "README" dosyası için örnek bir metin:
-
 # Hoş Geldiniz!
 
 Bu, benim web sayfamın "README" dosyasıdır. Burada, sayfam hakkında birkaç önemli bilgiyi paylaşacağım.
 
 ## Hakkımda
 
-Benim adım Poe ve bu web sayfası benim kişisel sayfam. Burada, benim hakkımda ve ilgi alanlarım hakkında daha fazla bilgi edinebilirsiniz.
+Benim adım Emin ve bu web sayfası benim kişisel sayfam. Burada, benim hakkımda ve ilgi alanlarım hakkında daha fazla bilgi edinebilirsiniz.
 
 ## Web Sayfam Hakkında
 
