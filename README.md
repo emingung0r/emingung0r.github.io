@@ -21,6 +21,6 @@ Sayfamda, benimle iletişim kurmak için bir e-posta adresi ve sosyal medya hesa
 
 Bu web sayfasını ziyaret ettiğiniz için teşekkür ederim. Umarım sayfamdan keyif alırsınız ve benimle iletişime geçmekten çekinmezsiniz.
 
-Web sayfamın adresi: [https://emingung0r.github.io↗]
+Web sayfamın adresi: https://emingung0r.github.io/
 
  
